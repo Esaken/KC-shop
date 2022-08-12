@@ -51,6 +51,42 @@
 </div><!--top finish-->
 
 
+<div id="navbar" class="navbar navbar-default"><!--navbar navbar default-start-->
+
+<div class="container"><!--container start-->
+    
+</div><!--container end-->
+
+<div class="navbar-header"><!--navbar-header start-->
+
+<a href="index.php" class="navbar-brand home"><!--navbar-brand home start-->
+
+<img src="#" alt="KC-shop store logo" class="hidden-xs">
+<!--desktop logo to be hidden once a certain pixel dimension is reached-->
+
+<img src="#" alt="KC-shop store logo Smartphone" class="visible-xs">
+
+</a><!--navbar-brand home end-->
+
+<button class="navbar-toggle" data-toggle="collapse" data-target="#navigation" >
+
+<span class="sr-only">Toggle navigation</span>
+
+<i class="fa fa-align-justify"></i>  
+
+</button>
+
+<button class="navbar-toggle" data-toggle="collapse" data-target="#search">
+
+<span class="sr-only">Toggle search</span>
+
+<i class="fa fa-align-justify"></i>  
+
+</button>
+
+</div><!--navbar-header end-->
+
+</div><!--navbar navbar default end-->
 
 
 1234
