@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KC-SHOP</title>
     <!--CSS style links start-->
-    <link rel="stylesheet" href="styles/bootstrap-337.min.css">
-    <!--<link rel="stylesheet" href="styles/bootstrap.min.css">-->
+
+    <link rel="stylesheet" href="styles/bootstrap.min.css">
     <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="styles/styles.css">
     <!--CSS style links END-->
@@ -20,7 +20,7 @@
 
 <div class="col-md-6 offer"><!--offer start-->
     <a href="#" class="btn btn-success btn-sm">Welcome</a>
-    <a href="checkout.php">4 items in your cart | Total Price: 300Ksh. </a>
+    <a href="checkout.php">4 items in your cart | Total Price: 3000Ksh. </a>
 </div><!--offer start-->
 
 <div class="col-md-6"><!--   begin -->
@@ -89,7 +89,7 @@
 </div><!--navbar navbar default end-->
 
 
-1234
+ken home
 
 
 
