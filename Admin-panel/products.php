@@ -89,6 +89,9 @@ if(isset($message)){
 
 </div>
 
+<footer>
+<?php include 'footer.php'; ?>
+</footer>
 
 
 <!-- links for javascript -->
