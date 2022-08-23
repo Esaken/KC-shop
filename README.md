@@ -1,2 +1,0 @@
-# KC-shop
-project 
