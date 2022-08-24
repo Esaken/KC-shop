@@ -7,10 +7,7 @@
     <link href="https://getbootstrap.com/docs/5.2/assets/css/docs.css" rel="stylesheet">
     <title>Bootstrap Example</title>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
-  </head>
-  <body class="p-3 m-0 border-0 bd-example">
 
-    
     
     <nav class="navbar navbar-expand-lg bg-light">
       <div class="container-fluid">
@@ -37,6 +34,9 @@
         </div>
       </div>
     </nav>
+    </head>
+  <body class="p-3 m-0 border-0 bd-example">
+
     
     
   </body>

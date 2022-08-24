@@ -23,6 +23,11 @@ if (isset($_SESSION["user_id"])) {
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
 </head>
 <body>
+
+    <header>
+<!-- php header link -->
+<?php include 'header.php'; ?>
+    </header>
     
     <h1>Home</h1>
     
@@ -38,6 +43,15 @@ if (isset($_SESSION["user_id"])) {
         
     <?php endif; ?>
     
+
+
+
+
+
+    <footer>
+        <!-- php footer link -->
+<?php include 'footer.php'; ?>
+    </footer>
 </body>
 </html>
     
